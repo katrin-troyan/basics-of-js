@@ -57,20 +57,20 @@
 // видалити місто
 // додати буль з ключем: like flowers
 // вивести результат в консоль
-let user = {
-  name: "Olga",
-  age: 20,
-  city: "Kyiv",
-};
-console.log(user);
-delete user.city;
-console.log(user);
-user["like flowers"] = true;
-console.log(user);
+// let user = {
+//   name: "Olga",
+//   age: 20,
+//   city: "Kyiv",
+// };
+// console.log(user);
+// delete user.city;
+// console.log(user);
+// user["like flowers"] = true;
+// console.log(user);
 
-//***10**
-// За допомогою циклу “for…in” вивести в консоль ключі і значення об*єкта
-for (key in user) {
-  console.log(key);
-  console.log(user[key]);
-}
+// //***10**
+// // За допомогою циклу “for…in” вивести в консоль ключі і значення об*єкта
+// for (key in user) {
+//   console.log(key);
+//   console.log(user[key]);
+// }
