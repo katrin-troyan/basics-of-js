@@ -69,10 +69,10 @@
 // 2) cherry  58, 1
 // 3) jrange 89. 3
 
-function shopItem(name, priceKg, numeber) {
-  const totalPrice = priceKg * numeber;
-  return `Product: ${name}, Total price: ${totalPrice} грн`;
-}
-console.log(shopItem("banana", 30, 4));
-console.log(shopItem("cherry", 58, 1));
-console.log(shopItem("orange", 89, 3));
+// function shopItem(name, priceKg, numeber) {
+//   const totalPrice = priceKg * numeber;
+//   return `Product: ${name}, Total price: ${totalPrice} грн`;
+// }
+// console.log(shopItem("banana", 30, 4));
+// console.log(shopItem("cherry", 58, 1));
+// console.log(shopItem("orange", 89, 3));
